@@ -1,0 +1,13 @@
+dn: uid=mktg1,ou=Users,dc=orwellg,dc=local
+objectclass:top
+objectclass:person
+objectclass:organizationalPerson
+objectclass:inetOrgPerson
+objectclass:posixaccount
+cn: mktg1
+sn: Smith
+uid: mktg1
+homedirectory:/home/mktg1
+uidNumber: 7500
+gidNumber: 750001
+userPassword:hortonworks
