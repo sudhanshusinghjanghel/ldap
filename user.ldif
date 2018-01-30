@@ -1,13 +1,13 @@
-dn: uid=mktg1,ou=Users,dc=orwellg,dc=local
+dn: uid=ali,ou=Users,dc=hortonworks,dc=com
 objectclass:top
 objectclass:person
 objectclass:organizationalPerson
 objectclass:inetOrgPerson
 objectclass:posixaccount
-cn: mktg1
-sn: Smith
-uid: mktg1
-homedirectory:/home/mktg1
-uidNumber: 7500
-gidNumber: 750001
+cn: ali
+sn: Bajwa
+uid: ali
+homedirectory:/home/ali
+uidNumber: 75000010
+gidNumber: 75000005
 userPassword:hortonworks
