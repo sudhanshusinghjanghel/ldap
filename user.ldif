@@ -1,4 +1,4 @@
-dn: uid=ali,ou=Users,dc=hortonworks,dc=com
+dn: uid=ali,ou=Users,dc=orwellg,dc=local
 objectclass:top
 objectclass:person
 objectclass:organizationalPerson
